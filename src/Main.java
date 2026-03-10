@@ -1,4 +1,5 @@
 import model.Company;
+import model.Employee;
 
 public class Main {
 
@@ -8,5 +9,6 @@ public class Main {
         // jsmith / johnsmith
 
         Company company = new Company();
+        Employee employee = new Employee();
     }
 }
