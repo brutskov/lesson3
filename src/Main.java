@@ -10,5 +10,6 @@ public class Main {
 
         Company company = new Company();
         Employee employee = new Employee();
+        System.out.println("Hello world");
     }
 }
